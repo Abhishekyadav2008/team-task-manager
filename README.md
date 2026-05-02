@@ -19,7 +19,7 @@ Email: test@demo.com
 Password: 123456
 
 ## Demo Video
-(Paste your Google Drive link here)
+[(Paste your Google Drive link here)](https://drive.google.com/file/d/1E_2olmr6m1khvGdcdyLBBdO_a3mUM-II/view?usp=sharing)
 
 ## Note
 Due to time constraints, deployment may be limited, but all core features are implemented and tested locally.
